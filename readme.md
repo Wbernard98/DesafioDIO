@@ -31,7 +31,7 @@ Este repositório serve como um portfólio dos meus estudos e práticas em lógi
 
 Meus desafios estão organizados dentro da pasta `aulajs`, onde cada subpasta representa um desafio específico.
 
-.
+```
 ├── aulajs/
 │   ├── desafio1/
 │   │   ├── desafio1.js
@@ -42,7 +42,7 @@ Meus desafios estão organizados dentro da pasta `aulajs`, onde cada subpasta re
 │   └── readme.md       # README da seção 'aulajs' (Opcional, se você quiser um nível intermediário)
 └── README.md           # Este README principal
 
-
+```
 Cada pasta de desafio (`desafioX/`) contém:
 
 * **`readme.md`**: Uma breve descrição do desafio, problema proposto, minha solução e possíveis otimizações.
